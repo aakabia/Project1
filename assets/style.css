@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+    
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+  }    
+
+
+  body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+
+
+header{
+    height: 180px;
+    width: 100p%;
+    background-color: rgb(248, 103, 6)   
+
+}
+
+nav {
+    float:right;
+    line line-height: ;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    color: black;
+    padding: 50px 10px;
+    margin:50;
+    font-weight: 500;
+    
+}
+
+nav a:hover{
+    text-decoration: underline;
+    background: yellow ;
+   
+}
+
+.banner-area{
+    background-image:url(p2.jpg);
+    
+    background-size:200px ;
+    background-position: center ;
+    height:40vh;
+    width:100%;
+    top: 100px;
+    background-color: rgb(255, 238, 0);
+    opacity:.8;
+    z-index: -1;
+
+}
+
+.content-area h2{
+    width:100% ;
+    height:100px ;
+    position: relative;
+    
+}
+    
+
+
+
+
+    
+    
+    
+   
+    
+   
+    
+
+
+
+
+
+
+
+.logo {
+    float:left;
+    text-align: left;
+    line-height: 100px;
+    width: 100%;
+   
+}
+.logo a{
+    text-decoration: none;
+    font-size: 30px;
+    letter-spacing: 4px;
+    color:black;
+    font-family: 'pacifico';
+}
+
+
+.drop{
+    height: 25px;
+}
+
+.content-area p{
+    padding: 0%;
+    line-height: 20px;
+    text-align: cent;
+    
+}
+
+.move{
+    height: 30px;
+    text-align: center;
+    line-height: 30gitpx;
+    
+}
